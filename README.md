@@ -1,4 +1,4 @@
 fast-typer
 ==========
 
-A small game which makes you learn fast typing.
+A small game which helps you learn how to type faster.
